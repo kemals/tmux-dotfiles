@@ -1,6 +1,6 @@
 # tmux-dotfiles
 
-[!tmux](https://i.imgur.com/vrthUBC.png)
+![tmux](https://i.imgur.com/vrthUBC.png)
 ## Prerequisites
 
 1. [tmux](https://github.com/tmux/tmux/wiki) (2.5)
